@@ -1,0 +1,46 @@
+# Виртуальное окружение
+venv/
+env/
+.env/
+.venv/
+
+# Логи проекта
+logs/
+*.log
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Тестовые файлы (если есть)
+test_*.py
+*_test.py
+
+# Файлы с секретами (если появятся)
+.env
+config.local.json
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json

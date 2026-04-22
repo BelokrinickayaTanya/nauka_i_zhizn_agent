@@ -1,0 +1,10 @@
+{
+  "feeds": [
+    {
+      "name": "Наука и жизнь",
+      "url": "https://www.nkj.ru/rss/",
+      "description": "Главная RSS лента журнала",
+      "category": "main"
+    }
+  ]
+}
