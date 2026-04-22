@@ -65,8 +65,6 @@ nauka_i_zhizn_agent/
 
 │ └── config.json # Настройки RSS-лент
 
-├── logs/ # Логи работы агента
-
 ├── demo.py # Streamlit-интерфейс
 
 ├── requirements.txt # Зависимости
