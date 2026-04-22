@@ -50,16 +50,27 @@
 ## 📂 Структура проекта
 
 nauka_i_zhizn_agent/
+
 ├── src/
+
 │ ├── agent.py # Главный агент
+
 │ ├── rss_tool.py # Работа с RSS + BM25
+
 │ ├── reasoner.py # Chain-of-Thought
+
 │ └── monitor.py # Сбор метрик
+
 ├── feeds/
+
 │ └── config.json # Настройки RSS-лент
+
 ├── logs/ # Логи работы агента
+
 ├── demo.py # Streamlit-интерфейс
+
 ├── requirements.txt # Зависимости
+
 └── README.md # Документация
 
 ---
